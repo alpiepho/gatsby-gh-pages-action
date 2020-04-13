@@ -10,7 +10,7 @@ inputs:
   deploy-branch:
     description: "The branch expected by GitHub to have the static files needed for your site."
     required: false
-    default: "master"
+    default: "gh-pages"
   deploy-repo:
     description: "The repo expected by GitHub to have the static files needed for your site."
     required: false

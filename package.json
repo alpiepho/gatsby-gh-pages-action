@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enriikke/gatsby-gh-pages-action.git"
+    "url": "git+https://github.com/alpiepho/gatsby-gh-pages-action.git"
   },
   "keywords": [
     "Gatsby",
@@ -18,9 +18,9 @@
   "author": "Enrique Gonzalez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enriikke/gatsby-gh-pages-action/issues"
+    "url": "https://github.com/alpiepho/gatsby-gh-pages-action/issues"
   },
-  "homepage": "https://github.com/enriikke/gatsby-gh-pages-action#readme",
+  "homepage": "https://github.com/alpiepho/gatsby-gh-pages-action#readme",
   "dependencies": {
     "@actions/core": "^1.1.0",
     "@actions/exec": "^1.0.1",
